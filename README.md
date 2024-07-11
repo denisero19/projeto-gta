@@ -13,4 +13,4 @@ Um projeto Landing Page GTA para plataformas de Plastation e Xbox Série X|S con
 
 Você pode acessar o código fonte do projeto 
 
-<>
+<https://github.com/denisero19/projeto-gta>
